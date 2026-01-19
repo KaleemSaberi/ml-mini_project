@@ -1,0 +1,17 @@
+house-price-prediction/
+│
+├── data/
+│   └── house_data.csv
+│
+├── notebooks/
+│   └── house_price_prediction.ipynb
+│
+├── src/
+│   └── model.py
+│
+├── results/
+│   └── output.png
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
