@@ -26,4 +26,5 @@ It is a beginner-level ML mini project.
 The model predicts house prices with reasonable accuracy.
 
 ## Author
-Your Name
+Kaleemullah Saberi
+
