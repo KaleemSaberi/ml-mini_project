@@ -27,4 +27,3 @@ The model predicts house prices with reasonable accuracy.
 
 ## Author
 Kaleemullah Saberi
-
